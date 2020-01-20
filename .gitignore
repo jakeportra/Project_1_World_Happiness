@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# By user
+# enrique
+.ipynb_checkpoints
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
